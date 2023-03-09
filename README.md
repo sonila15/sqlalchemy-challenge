@@ -14,7 +14,7 @@ In this section, you’ll use Python and SQLAlchemy to do a basic climate analys
 
   * Link Python to the database by creating a SQLAlchemy session.
 
- ###### ** IMPORTANT **
+ #### **IMPORTANT **
      Remember to close your session at the end of your notebook.
 
   * Perform a precipitation analysis and then a station analysis by completing the steps in the following two subsections.
@@ -54,7 +54,7 @@ Find the most recent date in the dataset.
 
   - Plot the results as a histogram with bins=12, as the following image shows:
 
-![This is a plot] ()
+![This is a plot](https://github.com/sonila15/sqlalchemy-challenge/blob/main/SurfsUp/Images/tobs.png)
 
 * Close your session.
 
